@@ -9,6 +9,9 @@ CharacterControllerEXPhoton.cs - контроллер персонажа в тр
 
 ArrayElementTitle.cs - добавляет атрибут для вывода доп.информации информации о массиве в инспекторе
 Как использовать:
+
 ![alt text](https://raw.githubusercontent.com/lSirFOXl/CodeR/master/Img/Screenshot_1.png)
+
 Что выводит:
+
 ![alt text](https://raw.githubusercontent.com/lSirFOXl/CodeR/master/Img/Screenshot_2.png)
